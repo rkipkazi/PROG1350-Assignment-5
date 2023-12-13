@@ -1,4 +1,4 @@
-# User Guide For XYZ Movies 
+# User Guide For XYZ Cinemas
 
 ## General Information
 The XYZ Movies website was created for movie watchers like you to have the abilitiy to quickly plan and purchase movie tickets at our local cinemas.
